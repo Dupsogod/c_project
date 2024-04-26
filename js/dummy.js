@@ -1,0 +1,1 @@
+// This is a dummy JS file to initialize the JS directory
